@@ -1,5 +1,9 @@
 # shellinabox-md-style
-A little css replacement for shellinabox to theme it with Google's Material Design language and make it more pretty
+A little CSS replacement for shellinabox to theme it with Google's Material Design language and make it more pretty
+
+## Some images
+
+![Some images](images/Screenshot.png)
 
 ## Use
 
